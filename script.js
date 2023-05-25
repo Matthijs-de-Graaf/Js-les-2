@@ -1,1 +1,1 @@
-alert("Ietsgit")
+alert("Itsgit");
